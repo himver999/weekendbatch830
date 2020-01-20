@@ -1,4 +1,6 @@
 this is a new file
 crested for testing
 this is third line
-this is fourth lie
+this is fourth line
+this is fourt line
+this is sixth line
