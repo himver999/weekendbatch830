@@ -2,7 +2,5 @@ this is a new file
 crested for testing
 this is third line
 this is fourth line
-this is fourt line
+this is fifth line
 this is sixth line
-this is 7
-this is eig
